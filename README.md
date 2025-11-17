@@ -45,3 +45,5 @@ LMS/
 │── env/ # NOT uploaded
 │── .env # NOT uploaded
 
+
+## Demo video link : https://drive.google.com/file/d/1yIiYEM7Ac3JsH3Ktt3CaIVlG9smWVt5D/view?usp=sharing
