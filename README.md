@@ -1,6 +1,7 @@
 # Learning Management System (LMS) - FastAPI
 
 A **Learning Management System** built with **FastAPI** and **PostgreSQL**, supporting courses, lessons, quizzes, and student progress tracking.
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1yIiYEM7Ac3JsH3Ktt3CaIVlG9smWVt5D/view?usp=sharing)
 
 ---
 
@@ -46,4 +47,4 @@ LMS/
 │── .env # NOT uploaded
 
 
-## Demo video link : https://drive.google.com/file/d/1yIiYEM7Ac3JsH3Ktt3CaIVlG9smWVt5D/view?usp=sharing
+
