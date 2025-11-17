@@ -29,3 +29,19 @@ A **Learning Management System** built with **FastAPI** and **PostgreSQL**, supp
 
 ## 📂 Project Structure
 
+LMS/
+│── app/
+│ ├── init.py
+│ ├── routers/
+│ ├── crud/
+│ ├── models.py
+│ ├── schemas.py
+│ ├── database.py
+│ ├── utils.py
+│ ├── config.py
+│── requirements.txt
+│── .gitignore
+│── README.md
+│── env/ # NOT uploaded
+│── .env # NOT uploaded
+
